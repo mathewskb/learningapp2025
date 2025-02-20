@@ -22,6 +22,9 @@ namespace learningapp.Pages
         public void OnGet()
         {
             string connectionString = _configuration.GetConnectionString("AZURE_SQL_CONNECTIONSTRING")!;
+            // var config = _configuration.GetSection("Common:Settings");
+            // string connectionString = config.GetValue<string>("dbpassword");
+
             var sqlConnection = new SqlConnection(connectionString);
             sqlConnection.Open();
 

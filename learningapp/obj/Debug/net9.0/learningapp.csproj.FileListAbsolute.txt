@@ -134,3 +134,10 @@ C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp
 C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\obj\Debug\net9.0\learningapp.pdb
 C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\obj\Debug\net9.0\learningapp.genruntimeconfig.cache
 C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\obj\Debug\net9.0\ref\learningapp.dll
+C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\bin\Debug\net9.0\Azure.Data.AppConfiguration.dll
+C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\bin\Debug\net9.0\Azure.Messaging.EventGrid.dll
+C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\bin\Debug\net9.0\Azure.Security.KeyVault.Secrets.dll
+C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\bin\Debug\net9.0\DnsClient.dll
+C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\bin\Debug\net9.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
+C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\obj\Debug\net9.0\learningapp.sourcelink.json

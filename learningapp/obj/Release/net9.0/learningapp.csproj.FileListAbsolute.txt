@@ -134,3 +134,4 @@ C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp
 C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\obj\Release\net9.0\learningapp.pdb
 C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\obj\Release\net9.0\learningapp.genruntimeconfig.cache
 C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\obj\Release\net9.0\ref\learningapp.dll
+C:\2025-Studies\Azure204\Revision\ComputeSolutions\temp1\learningapp\learningapp\obj\Release\net9.0\learningapp.sourcelink.json
