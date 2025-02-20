@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2025-Studies\\Azure204\\Revision\\ComputeSolutions\\temp1\\learningapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C09B5A-211D-4F04-AF6C-DDD47892B49F}|learningapp\\learningapp.csproj|c:\\2025-studies\\azure204\\revision\\computesolutions\\temp1\\learningapp\\learningapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20C09B5A-211D-4F04-AF6C-DDD47892B49F}|learningapp\\learningapp.csproj|solutionrelative:learningapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C09B5A-211D-4F04-AF6C-DDD47892B49F}|learningapp\\learningapp.csproj|c:\\2025-studies\\azure204\\revision\\computesolutions\\temp1\\learningapp\\learningapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C09B5A-211D-4F04-AF6C-DDD47892B49F}|learningapp\\learningapp.csproj|solutionrelative:learningapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C09B5A-211D-4F04-AF6C-DDD47892B49F}|learningapp\\learningapp.csproj|c:\\2025-studies\\azure204\\revision\\computesolutions\\temp1\\learningapp\\learningapp\\learningapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20C09B5A-211D-4F04-AF6C-DDD47892B49F}|learningapp\\learningapp.csproj|solutionrelative:learningapp\\learningapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C09B5A-211D-4F04-AF6C-DDD47892B49F}|learningapp\\learningapp.csproj|c:\\2025-studies\\azure204\\revision\\computesolutions\\temp1\\learningapp\\learningapp\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C09B5A-211D-4F04-AF6C-DDD47892B49F}|learningapp\\learningapp.csproj|solutionrelative:learningapp\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C09B5A-211D-4F04-AF6C-DDD47892B49F}|learningapp\\learningapp.csproj|c:\\2025-studies\\azure204\\revision\\computesolutions\\temp1\\learningapp\\learningapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20C09B5A-211D-4F04-AF6C-DDD47892B49F}|learningapp\\learningapp.csproj|solutionrelative:learningapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\2025-Studies\\Azure204\\Revision\\ComputeSolutions\\temp1\\learningapp\\learningapp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "learningapp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\2025-Studies\\Azure204\\Revision\\ComputeSolutions\\temp1\\learningapp\\learningapp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "learningapp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T10:04:48.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "learningapp",
+              "DocumentMoniker": "C:\\2025-Studies\\Azure204\\Revision\\ComputeSolutions\\temp1\\learningapp\\learningapp\\learningapp.csproj",
+              "RelativeDocumentMoniker": "learningapp\\learningapp.csproj",
+              "ToolTip": "C:\\2025-Studies\\Azure204\\Revision\\ComputeSolutions\\temp1\\learningapp\\learningapp\\learningapp.csproj",
+              "RelativeToolTip": "learningapp\\learningapp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T10:03:44.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\2025-Studies\\Azure204\\Revision\\ComputeSolutions\\temp1\\learningapp\\learningapp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "learningapp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\2025-Studies\\Azure204\\Revision\\ComputeSolutions\\temp1\\learningapp\\learningapp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "learningapp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:01:24.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\2025-Studies\\Azure204\\Revision\\ComputeSolutions\\temp1\\learningapp\\learningapp\\Course.cs",
+              "RelativeDocumentMoniker": "learningapp\\Course.cs",
+              "ToolTip": "C:\\2025-Studies\\Azure204\\Revision\\ComputeSolutions\\temp1\\learningapp\\learningapp\\Course.cs",
+              "RelativeToolTip": "learningapp\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:00:33.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\2025-Studies\\Azure204\\Revision\\ComputeSolutions\\temp1\\learningapp\\learningapp\\appsettings.json",
+              "RelativeDocumentMoniker": "learningapp\\appsettings.json",
+              "ToolTip": "C:\\2025-Studies\\Azure204\\Revision\\ComputeSolutions\\temp1\\learningapp\\learningapp\\appsettings.json",
+              "RelativeToolTip": "learningapp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T09:57:45.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
